@@ -28,6 +28,10 @@ namespace sdfgdsgdfgdf
 			button.Click += delegate {
 				button.Text = string.Format ("{0} clicks!", count++);
 			};
+
+				/// <summary>
+				/// dfdfs
+				/// </summary>
 		}
 	}
 }
